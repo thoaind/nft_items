@@ -1,7 +1,7 @@
 {
 	"name": "Ashe",
 	"description": "Cung băng",
-	"image_url": "./2.png",
+	"image_url": "https://raw.githubusercontent.com/thoaind/nft_items/main/2.png",
 	"attributes": {
 		"attack": 97,
 		"defense": 56,

@@ -1,0 +1,11 @@
+{
+	"name": "Ashe",
+	"description": "Cung băng",
+	"image_url": "./2.png",
+	"attributes": {
+		"attack": 97,
+		"defense": 56,
+		"speed": 35,
+		"hp": 485
+	}
+}

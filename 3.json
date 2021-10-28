@@ -1,0 +1,11 @@
+{
+	"name": "Draven",
+	"description": "Đao phủ kiêu hùng",
+	"image_url": "./3.png",
+	"attributes": {
+		"attack": 100,
+		"defense": 65,
+		"speed": 40,
+		"hp": 500
+	}
+}

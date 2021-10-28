@@ -1,0 +1,11 @@
+{
+	"name": "Ahri",
+	"description": "Hồ ly chín đuôi",
+	"image_url": "./1.png",
+	"attributes": {
+		"attack": 80,
+		"defense": 65,
+		"speed": 38,
+		"hp": 547
+	}
+}
